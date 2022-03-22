@@ -173,7 +173,7 @@ msgid "_Security:"
 msgstr "_Biaśpieka:"
 
 #: ../properties/nm-sstp.c:50
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr "Pratakoł tunelnaha PPP (SSTP)"
 
 #: ../properties/nm-sstp.c:51

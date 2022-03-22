@@ -70,7 +70,7 @@ msgid "EAP"
 msgstr "EAP"
 
 #: ../properties/nm-sstp.c:56
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr "Protocolo de Tunneling ponto-a-ponto (SSTP)"
 
 #: ../properties/nm-sstp.c:57

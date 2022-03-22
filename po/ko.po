@@ -191,7 +191,7 @@ msgid "_Security:"
 msgstr "보안(_S):"
 
 #: ../properties/nm-sstp.c:50
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr "포인트투포인트 터널링 프로토콜 (SSTP)"
 
 #: ../properties/nm-sstp.c:51

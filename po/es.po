@@ -93,7 +93,7 @@ msgid "EAP"
 msgstr "EAP"
 
 #: ../properties/nm-sstp-editor-plugin.c:34
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr "Protocolo de túnel punto a punto (SSTP)"
 
 #: ../properties/nm-sstp-editor-plugin.c:35

@@ -174,7 +174,7 @@ msgid "_Security:"
 msgstr "_Sekureco:"
 
 #: ../properties/nm-sstp.c:49
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr ""
 
 #: ../properties/nm-sstp.c:50

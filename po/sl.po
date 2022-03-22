@@ -239,7 +239,7 @@ msgstr "Pošlji zahteve echo LCP za ohranjevanje povezave.\n"
 "Nastavitev: lcp-echo-failure in lcp-echo-interval"
 
 #: ../properties/nm-sstp.c:49
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr "Point-to-Point protokol tuneliranja (SSTP)"
 
 #: ../properties/nm-sstp.c:50

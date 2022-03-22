@@ -154,7 +154,7 @@ msgstr "_Lüüs (gateway):"
 msgid "_Security:"
 msgstr "_Turvalisus:"
 
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr "Point-to-Point tunneli protokoll (SSTP)"
 
 msgid "Compatible with Microsoft and other SSTP VPN servers."

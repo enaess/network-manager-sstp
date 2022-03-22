@@ -276,7 +276,7 @@ msgstr ""
 "configuration : lcp-echo-failure et lcp-echo-interval"
 
 #: ../properties/nm-sstp.c:49
-msgid "Point-to-Point Tunneling Protocol (SSTP)"
+msgid "Secure Socket Tunneling Protocol (SSTP)"
 msgstr "Protocole de tunnel Point-to-Point (SSTP)"
 
 #: ../properties/nm-sstp.c:50
